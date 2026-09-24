@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=protcar_db'
+      - 'POSTGRES_PASSWORD=admin'
+      - 'POSTGRES_USER=protcar'
+    ports:
+      - '5432:5432'
