@@ -6,7 +6,7 @@ API REST responsável por receber e armazenar as solicitações de cotação de 
 
 | Camada | Tecnologias |
 |---|---|
-| Linguagem | Java 17 |
+| Linguagem | Java 21 |
 | Framework | Spring Boot (Web, Data JPA, Validation, Security/JWT) |
 | Auxiliares | Lombok, MapStruct |
 | Banco de dados | PostgreSQL (Docker em desenvolvimento, RDS em produção) |
