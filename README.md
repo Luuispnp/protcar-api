@@ -28,7 +28,7 @@ back-end/
 ## Como rodar localmente
 
 ### Pré-requisitos
-- Java 17+
+- Java 21+
 - Docker e Docker Compose
 
 ### Passos
