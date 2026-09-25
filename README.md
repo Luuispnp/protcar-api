@@ -53,7 +53,7 @@ Execute a aplicação:
 mvn spring-boot:run
 ```
 
-A API sobe por padrão em `http://localhost:8080`.
+A API sobe por padrão em `http://localhost:5000`.
 
 ## Endpoints
 
